@@ -33,7 +33,7 @@ To run the game, you'll need to clone the repository and run the `Main` class.
 git clone https://github.com/pedroascenso/rps-lizard-spock.git
 cd rps-lizard-spock/src
 javac -cp . pt/pedroascenso/*.java
-java -cp pt.pedroascenso.Main
+java -cp . pt.pedroascenso.Main
 ```
 
 ## How to Play
@@ -60,4 +60,4 @@ Contributions to MyIRC are always welcome! If you find a bug or want to suggest 
 
 ## License
 
-MyIRC is licensed under the MIT License. See [LICENSE](https://github.com/pedroascenso/my-irc/blob/main/LICENSE) for details.
+MyIRC is licensed under the MIT License. See [LICENSE](https://github.com/pedroascenso/rps-lizard-spock/blob/main/LICENSE) for details.
