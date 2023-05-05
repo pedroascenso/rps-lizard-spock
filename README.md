@@ -2,7 +2,7 @@
 > I'm no longer working on this project.
 > This was a lesson on composition and enum classes.
 
-# Rock-Paper-Scissors-Lizard-Spock Game
+# RPS-Lizard-Spock Game
 
 This is a fun and interactive implementation of the classic Rock-Paper-Scissors game, with the exciting twist of Lizard and Spock added to the mix! It's written in Java and comes with two game modes - a fixed round mode and a best-of mode
 
@@ -60,4 +60,4 @@ Contributions are always welcome! If you find a bug or want to suggest an enhanc
 
 ## License
 
-MyIRC is licensed under the MIT License. See [LICENSE](https://github.com/pedroascenso/rps-lizard-spock/blob/main/LICENSE) for details.
+RPS-Lizard-Spock Game is licensed under the MIT License. See [LICENSE](https://github.com/pedroascenso/rps-lizard-spock/blob/main/LICENSE) for details.
