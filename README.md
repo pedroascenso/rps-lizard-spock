@@ -56,7 +56,7 @@ Here are the rules:
 
 ## Contributing
 
-Contributions to MyIRC are always welcome! If you find a bug or want to suggest an enhancement, please submit an issue. If you'd like to contribute code, please fork the repository and create a pull request.
+Contributions are always welcome! If you find a bug or want to suggest an enhancement, please submit an issue. If you'd like to contribute code, please fork the repository and create a pull request.
 
 ## License
 
